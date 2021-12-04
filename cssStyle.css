@@ -1,17 +1,14 @@
 .fundo {
-  background-color: #407094;
   height: 100vh;
   width: 100vw;
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
 .centralizador {
-  height: 80%;
-  width: 60%;
   display: flex;
-  border-color: silver;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .leftbox {
@@ -26,6 +23,8 @@
   background-color: #2a4e69;
   border-radius: 15px;
   text-align: left;
+  height: 750px;
+  width: 576px;
 }
 
 .circulo {
@@ -49,7 +48,6 @@
   margin-left: 20px;
   margin-right: 20px;
 }
-
 .label {
   padding: 5px 0 5px 0;
 }
@@ -98,6 +96,7 @@ img {
 
 body {
   margin: 0px;
+  background-color: #407094;
 }
 
 div {
