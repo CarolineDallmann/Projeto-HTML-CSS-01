@@ -6,7 +6,7 @@ Ainda não é responsivo, mas logo chego lá...
 
 Aprendi conceitos básicos de HTML e CSS e como fazer uma Div Side by Side;
 
-Aprendi como fazer uma validação do formulário totalmente pelo Javascript 
+Aprendi como fazer uma validação do formulário totalmente pelo Javascript.
 
 *(Fiz uma versão 02 desse mesmo projeto mas validando de uma forma diferente. Segue link para quem quiser dar uma olhada https://github.com/CarolineDallmann/Projeto-HTML-CSS-01-vs02).*
 
