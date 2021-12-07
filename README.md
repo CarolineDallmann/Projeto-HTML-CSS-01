@@ -1,4 +1,4 @@
-# Projeto de Estudo HTML-CSS vs.01
+# Projeto de Estudo HTML-CSS-Javascript vs.01
 
 :star_struck: Primeiro projeto executado !!!
 
